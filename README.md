@@ -3,7 +3,7 @@
 Aplicación web hecha con **Next.js 16 (App Router)**, **TypeScript** y **Tailwind CSS** siguiendo
 la metodología de **Vibe Coding**: la IA genera el código y yo dirijo, reviso y corrijo cada paso.
 
-- 🌐 **Despliegue:** `https://TU-PROYECTO.vercel.app` ← _(reemplazar con la URL real de Vercel)_
+- 🌐 **Despliegue:** `https://sazon-next.vercel.app/` 
 - 📝 **Proceso de Vibe Coding:** ver [VIBE_CODING.md](./VIBE_CODING.md)
 - 🤖 **Reglas para la IA:** ver [AGENTS.md](./AGENTS.md)
 

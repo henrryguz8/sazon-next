@@ -143,5 +143,5 @@ sugerida.
 
 ## 7. Despliegue
 
-- **URL en producción:** `https://TU-PROYECTO.vercel.app` _(reemplazar con la URL real)_
-- **Repositorio:** `https://github.com/TU-USUARIO/sazon-next` _(reemplazar con el enlace real)_
+- **URL en producción:** `https://sazon-next.vercel.app/`
+- **Repositorio:** `https://github.com/henrryguz8/sazon-next`
