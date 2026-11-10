@@ -1,0 +1,26 @@
+# dependencias
+/node_modules
+/.pnp
+.pnp.*
+
+# next
+/.next/
+/out/
+next-env.d.ts
+
+# build
+/build
+
+# variables de entorno (nunca se suben)
+.env
+.env.local
+.env.*.local
+
+# vercel
+.vercel
+
+# varios
+.DS_Store
+*.pem
+*.tsbuildinfo
+npm-debug.log*
